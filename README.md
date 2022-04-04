@@ -16,5 +16,7 @@
 
 <p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasharora102&show_icons=true&locale=en&layout=compact" alt="yasharora102" /><img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=yasharora102&show_icons=true&locale=en" alt="yasharora102" /></p>
 
+[![Spotify](https://novatorem-umber-ten.vercel.app/api/spotify)](https://open.spotify.com/user/stealthflame)
+
 
 
