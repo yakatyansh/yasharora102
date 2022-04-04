@@ -16,6 +16,6 @@
 
 <p><img align="left" display:inline-block;margin-right:10px; src="https://github-readme-stats.vercel.app/api/top-langs?username=yasharora102&show_icons=true&locale=en&layout=compact" alt="yasharora102" /></p>
 
-<p><img align="center" display:inline-block; src="https://github-readme-stats.vercel.app/api?username=yasharora102&show_icons=true&locale=en" alt="yasharora102" /></p>
+<p><img align="right" display:inline-block; src="https://github-readme-stats.vercel.app/api?username=yasharora102&show_icons=true&locale=en" alt="yasharora102" /></p>
 
 
