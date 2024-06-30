@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A Sophomore from Amrita University, Amritapuri. Member at amFOSS.</h3>
+<h3 align="center">A Final Year student from Amrita University, Amritapuri. Member at amFOSS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasharora102&label=Profile%20views&color=0e75b6&style=flat" alt="yasharora102" /> </p>
 
